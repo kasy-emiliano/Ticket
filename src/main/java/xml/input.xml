@@ -1,0 +1,13 @@
+<h4 align='center' >Tableau des medailles</h4><table border=1 width=350 height=100 class="table table-borderless datatable">
+                                <thead>
+                                    <tr>
+                                        <th>Pays</th>
+                                                       + "                                        <th>Or</th>\n"
+                + "                      <th>Argent</th>\n"
+                + "                                       + "                + \"                       <th>Bronze</th>\\n\"\n"
+<th>Total</th>\n"
+
+
+                                    </tr>
+                                </thead>
+                                <tbody><tr><td>Madagascar</td><td>3</td><td>0</td><td>0 </td><td>3</td></tr><tr><td>Maldives</td><td>1</td><td>0</td><td>1 </td><td>2</td></tr><tr><td>La Reunion</td><td>0</td><td>3</td><td>1 </td><td>4</td></tr><tr><td>Seychelles</td><td>0</td><td>1</td><td>0 </td><td>1</td></tr><tr><td>Mayotte</td><td>0</td><td>0</td><td>1 </td><td>1</td></tr><tr><td>Maurice</td><td>0</td><td>0</td><td>1 </td><td>1</td></tr><tr><td>Comores</td><td>0</td><td>0</td><td>0 </td><td>0</td></tr></tbody></table>
